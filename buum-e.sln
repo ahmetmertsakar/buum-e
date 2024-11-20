@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4A2E5CCD-0EB1-4F2F-99D4-82B299AFB068}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F33486CA-0090-4A14-B3E9-41A3D27B1BB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "buum-e.Domain", "buum-e.Domain\buum-e.Domain.csproj", "{125713AE-8E41-4395-AF19-68B897626378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125713AE-8E41-4395-AF19-68B897626378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125713AE-8E41-4395-AF19-68B897626378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125713AE-8E41-4395-AF19-68B897626378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125713AE-8E41-4395-AF19-68B897626378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{125713AE-8E41-4395-AF19-68B897626378} = {4A2E5CCD-0EB1-4F2F-99D4-82B299AFB068}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4833FD7-0CCF-4C3C-A5A4-53285AFFA5FA}
+	EndGlobalSection
+EndGlobal

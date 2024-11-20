@@ -1,0 +1,14 @@
+﻿.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+bin/
+obj/
+
+*.log
+*.vspscc
+*.vssscc
